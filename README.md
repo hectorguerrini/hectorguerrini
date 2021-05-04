@@ -7,6 +7,8 @@
 - 🌱 Estudando Engenharia de Computação no Instituto Mauá de Tecnologia
 - 💬 Pergunte-me sobre desenvolvimento web, mobile ou linguagens em Geral ...
 - 😄 Pronouns: Ronaldinho, R10
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hectorguerrini&theme=dark&show_icons=true)
 <!--
 **hectorguerrini/hectorguerrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
