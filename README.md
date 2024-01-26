@@ -6,9 +6,9 @@
 
 
 
-- 🔭 Trabalho como freelancer em projetos de web e mobile
-- 🌱 Estudando Engenharia de Computação no Instituto Mauá de Tecnologia
-- 💬 Pergunte-me sobre desenvolvimento web, mobile ou linguagens em Geral ...
+- 🔭 Trabalho na Area de engenharia de TI do Itau Private Bank como fullstack e como freelancer em projetos de web e mobile
+- 🌱 Formado em Engenharia de Computação no Instituto Mauá de Tecnologia
+- 💬 Pergunte-me sobre desenvolvimento web, mobile ou linguagens em Geral, AWS ...
 - 😄 Pronouns: Ronaldinho, R10
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hectorguerrini&show_icons=true&theme=dracula)
